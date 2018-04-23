@@ -1,0 +1,17 @@
+PODS:
+  - EDStarRating (1.1)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+
+DEPENDENCIES:
+  - EDStarRating
+  - SDWebImage (~> 4.0)
+
+SPEC CHECKSUMS:
+  EDStarRating: a41a6440a945020745d0e9ff8ada7d1afa952114
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+
+PODFILE CHECKSUM: f0aa50ae3e82adff8a0720507241cba17937fcf6
+
+COCOAPODS: 1.4.0
